@@ -1,0 +1,6 @@
+manzana 	 3
+pera 	 4
+uva 	 2
+naranja 	 3
+coco 	 2
+sandia 	 2

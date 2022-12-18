@@ -1,0 +1,4 @@
+manzana pera uva naranja
+coco manzana pera coco
+uva naranja pera sandia
+sandia naranja pera manzana
